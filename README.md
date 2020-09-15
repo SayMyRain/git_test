@@ -1,4 +1,2 @@
 # git_test
-This is a readme file with a change made.
-
-Commit the change!
+This is one of Brendan's first git projects!
